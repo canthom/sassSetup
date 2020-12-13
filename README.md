@@ -3,7 +3,7 @@ A ReadME file about the best ways to structure Sass Files
 
 ## Types of Sass Structures
 
-#Simple Structure
+### Simple Structure
 You should use this one for your small projects. This structure is very minimal : 
 
 * Main.sass : this file contains only the imports from the other files.
